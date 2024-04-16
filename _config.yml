@@ -1,9 +1,9 @@
 title: Shoku Ai
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and Gitlab/GitHub Pages.
+description: Witaj! ShokuAi to mobilna aplikacja do generowania przepisów i tworzenia listy zakupów.
 show_downloads: true
 
-baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://lorepirri.github.io" # change this to the base hostname & protocol for your site
+baseurl: # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://paulinalewicka1.github.io/ShokuAi/" # change this to the base hostname & protocol for your site
 
 
 # cayman-blog date format
@@ -19,15 +19,9 @@ plugins:
   - jekyll-target-blank
   - kramdown-parser-gfm
 
-# social
-author: lorepirri
-image: /thumbnail-jumbo.png
-twitter:
-  username: lorepirri
-
 target-blank:
     rel: nofollow
 
-header_page_refs: ['now', 'about', 'contact']
+header_page_refs: ['tutorial', 'contact']
 
 markdown: kramdown
