@@ -107,8 +107,8 @@ a {
 }
 .btnMail {
   color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(255,114,35, 0.4);
-  border-color: rgba(255,114,35, 0.5);
+  background-color: rgba(255,114,35, 0.6);
+  border-color: rgba(255,114,35, 0.7);
   border-style: solid;
   border-width: 1px;
   border-radius: 0.3rem;
@@ -117,8 +117,33 @@ a {
   &:hover {
     color: rgba(255, 255, 255, 0.8);
     text-decoration: none;
-    background-color: rgba(255, 165, 0, 0.8);
-    border-color: rgba(255,114,35, 0.5);
+    background-color: rgba(255,114,35, 0.8);
+    border-color: rgba(255,114,35, 0.9);
+  }
+
+  + .btnMail {
+    margin-left: 1rem;
+  }
+
+  @include large {
+    padding: 0.75rem 1rem;
+  }
+
+  @include medium {
+    padding: 0.6rem 0.9rem;
+    font-size: 0.9rem;
+  }
+
+  @include small {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 0.9rem;
+
+    + .btnMail {
+      margin-top: 1rem;
+      margin-left: 0;
+    }
   }
 }
 
