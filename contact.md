@@ -9,4 +9,4 @@ order: 1
 Lider zespołu programistycznego:
 298766@stud.umk.pl
 
-<a href="mailto:313117@stud.umk.pl" class="btn">Wyślij e-mail</a>
+<a href="mailto:313117@stud.umk.pl" class="btnMail">Wyślij e-mail</a>
