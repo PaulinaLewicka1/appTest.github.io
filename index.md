@@ -8,5 +8,7 @@
 layout: home
 ---
 
-<p>Wkrótce dostępna!</p>
-<p>(Nie wiem co więcej napisać)</p>
+Wkrótce dostępna!
+
+(Nie wiem co więcej napisać)
+
