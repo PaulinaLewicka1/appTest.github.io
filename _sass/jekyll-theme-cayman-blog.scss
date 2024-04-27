@@ -105,7 +105,7 @@ a {
     }
   }
 }
-.btnMail {
+.btnColor {
   color: rgba(255, 255, 255, 0.7);
   background-color: rgba(255,114,35, 0.6);
   border-color: rgba(255,114,35, 0.7);
@@ -121,7 +121,7 @@ a {
     border-color: rgba(255,114,35, 0.9);
   }
 
-  + .btnMail {
+  + .btnColor {
     margin-left: 1rem;
   }
 
@@ -140,7 +140,7 @@ a {
     padding: 0.75rem;
     font-size: 0.9rem;
 
-    + .btnMail {
+    + .btnColor {
       margin-top: 1rem;
       margin-left: 0;
     }
