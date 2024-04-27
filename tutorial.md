@@ -6,10 +6,10 @@ permalink: /tutorial.html
 ref: tutorial
 order: 0
 ---
-
+<!-- test bo nie działaaaa
 <a href="{{ site.github.pdf_url }}" class="btnColor">Pobierz instrukcję obsługi w pliku pdf</a>
 <a href="{{ site.github.apk_url }}" class="btnColor" download>Pobierz aplikację</a>
-
+-->
 * * *
 
 # Spis Treści
