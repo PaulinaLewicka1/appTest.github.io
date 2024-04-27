@@ -10,4 +10,4 @@ Lider zespołu programistycznego:
 
 298766@stud.umk.pl
 
-<a href="mailto:298766@stud.umk.pl" class="btnColor">Wyślij e-mail</a>
+[Wyślij e-mail]({{ mailto:298766@stud.umk.pl }}){: .btnColor }
