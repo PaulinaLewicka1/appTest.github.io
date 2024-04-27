@@ -3,7 +3,7 @@ description: Witaj! ShokuAi to mobilna aplikacja do generowania przepisów i two
 show_downloads: false
 
 baseurl: "/appTest.github.io" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "paulinalewicka1.github.io" # change this to the base hostname & protocol for your site
+url: "https://paulinalewicka1.github.io" # change this to the base hostname & protocol for your site
 
 github:
   pdf_url: "https://paulinalewicka1.github.io/appTest.github.io/instruction.pdf"
