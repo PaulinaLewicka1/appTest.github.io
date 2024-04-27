@@ -6,8 +6,8 @@ baseurl: "/appTest.github.io" # change this to the subpath of your site, e.g. /b
 url: "paulinalewicka1.github.io" # change this to the base hostname & protocol for your site
 
 github:
-  pdf_url: "https://majacich.github.io/appTest.github.io/instruction.pdf"
-  apk_url: "https://majacich.github.io/appTest.github.io/app-release.apk"
+  pdf_url: "https://paulinalewicka1.github.io/appTest.github.io/instruction.pdf"
+  apk_url: "https://paulinalewicka1.github.io/appTest.github.io/app-release.apk"
 
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
