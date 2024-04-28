@@ -12,27 +12,27 @@ order: 0
 
 * * *
 
-# Spis Treści
+# Spis Treścix  
 
-1. [Aplikacja Shoku Ai](#aplikacja-shoku-ai)
-   1.1 [Strona główna - tworzenie przepisów](#strona-główna-tworzenie-przepisów)
-       1.1.1 [Przepis od AI](#przepis-od-ai)
-   1. [Przepis z wybranej kuchni](#przepis-z-wybranej-kuchni)
-   2. [Losowy przepis](#losowy-przepis)
-   3. [Wybrany przepis](#wybrany-przepis)
-   4. [Zapisanie przepisu od AI](#zapisanie-przepisu-od-ai)
-       1.1.2 [Własny przepis](#własny-przepis)
-   1.2 [Ulubione](#ulubione)
-   1.3 [Szczegóły przepisu](#szczegóły-przepisu)
-   1.4 [Lista zakupów](#lista-zakupów)
-   1.5 [Ustawienia](#ustawienia)
-       1.5.1 [Tryb jasny/ciemny](#tryb-jasny-ciemny)
-       1.5.2 [Profil](#profil)
-       1.5.3 [Preferencje](#preferencje)
-       1.5.4 [Generowanie zdjęć](#generowanie-zdjęć)
-       1.5.5 [Język](#język)
-       1.5.6 [Samouczek](#samouczek)
-       1.5.7 [Polityka prywatności](#polityka-prywatności)
+[Aplikacja Shoku Ai](#aplikacja-shoku-ai)  
+1. [Strona główna - tworzenie przepisów](#strona-główna-tworzenie-przepisów)  
+    1.1. [Przepis od AI](#przepis-od-ai)  
+        1.1.1. [Przepis z wybranej kuchni](#przepis-z-wybranej-kuchni)  
+        1.1.2. [Losowy przepis](#losowy-przepis)  
+        1.1.3. [Wybrany przepis](#wybrany-przepis)  
+        1.1.4. [Zapisanie przepisu od AI](#zapisanie-przepisu-od-ai)  
+    1.2. [Własny przepis](#własny-przepis)  
+2. [Ulubione](#ulubione)  
+3. [Szczegóły przepisu](#szczegóły-przepisu)  
+4. [Lista zakupów](#lista-zakupów)  
+5. [Ustawienia](#ustawienia)  
+       1.5.1. [Tryb jasny/ciemny](#tryb-jasny-ciemny)  
+       1.5.2. [Profil](#profil)  
+       1.5.3. [Preferencje](#preferencje)  
+       1.5.4. [Generowanie zdjęć](#generowanie-zdjęć)  
+       1.5.5. [Język](#język)  
+       1.5.6. [Samouczek](#samouczek)  
+       1.5.7. [Polityka prywatności](#polityka-prywatności) 
 
 
 ## Przykładowa Zawartość
@@ -60,7 +60,7 @@ Aby dodać wybrany przepis, rozwiń menu (1) i wybierz przycisk (2). W ukazanym 
 Aby zapisać otrzymany przepis, należy zapisać go przyciskiem (4).
 
 #### Własny przepis
-Rozwiń menu (1) i wybierz przycisk (2). Na ukazanej stronie należy dodać wymagane szczegóły dotyczące przepisu: zdjęcie _(opcjonalne)_, nazw, czas przygotowania, opis, składniki _(co najmniej jeden)_. Po wprowadzeniu danych należy zatwierdzić dodanie przepisu. 
+Rozwiń menu (1) i wybierz przycisk (2). Na ukazanej stronie należy dodać wymagane szczegóły dotyczące przepisu: zdjęcie (opcjonalne), nazw, czas przygotowania, opis, składniki (co najmniej jeden). Po wprowadzeniu danych należy zatwierdzić dodanie przepisu. 
 
 ### Ulubione
 W tej zakładce pojawią się zapisane przepisy. Klikając kartę przepisu, przejdziesz na stronę jego szczegółów.
