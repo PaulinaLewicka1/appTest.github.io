@@ -14,6 +14,19 @@ order: 0
 
 # Spis Treści
 
+lista testowa:
+[Aplikacja Shoku Ai](#aplikacja-shoku-ai)  
+1. [Strona główna - tworzenie przepisów](#strona-główna-tworzenie-przepisów)  
+    1. [Przepis od AI](#przepis-od-ai)  
+        1. [Przepis z wybranej kuchni](#przepis-z-wybranej-kuchni)  
+        2. [Losowy przepis](#losowy-przepis)  
+        3. [Wybrany przepis](#wybrany-przepis)  
+        4. [Zapisanie przepisu od AI](#zapisanie-przepisu-od-ai)  
+    2. [Własny przepis](#własny-przepis)  
+2. [Ulubione](#ulubione)  
+
+* * *
+
 [Aplikacja Shoku Ai](#aplikacja-shoku-ai)  
 1. [Strona główna - tworzenie przepisów](#strona-główna-tworzenie-przepisów)  
     1.1. [Przepis od AI](#przepis-od-ai)  
