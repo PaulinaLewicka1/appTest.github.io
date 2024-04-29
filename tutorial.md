@@ -102,13 +102,3 @@ Tutaj możesz podzielić się z nami swoją opinią na temat aplikacji.
 
 ### 5.4. Polityka prywatności {#polityka-prywatności}
 Na tej stronie zapoznasz się z polityką prywatności aplikacji Shoku Ai.
-
-* * *
-
-### Small image
-Poniżej test
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
