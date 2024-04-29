@@ -8,7 +8,5 @@
 layout: home
 ---
 
-Wkrótce dostępna!
-
-(Nie wiem co więcej napisać)
+![appIcon](/assets/images/appIcon.png)
 
