@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Kontakt
-tagline: Create a contact form and you are good to go
+tagline: Skontaktuj się z nami
 ref: contact
-order: 1
+order: 2
 ---
 
 Lider zespołu programistycznego:

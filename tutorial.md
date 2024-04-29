@@ -4,11 +4,10 @@ title: Samouczek
 tagline: Instrukcja obsługi aplikacji
 permalink: /tutorial.html
 ref: tutorial
-order: 0
+order: 1
 ---
 
 [Pobierz instrukcję obsługi w pliku pdf]({{ site.github.pdf_url }}){: .btnColor }
-[Pobierz aplikację]({{ site.github.apk_url }}){: .btnColor }
 
 * * *
 
@@ -24,33 +23,20 @@ lista testowa:
         4. [Zapisanie przepisu od AI](#zapisanie-przepisu-od-ai)  
     2. [Własny przepis](#własny-przepis)  
 2. [Ulubione](#ulubione)  
-
-* * *
-
-[Aplikacja Shoku Ai](#aplikacja-shoku-ai)  
-1. [Strona główna - tworzenie przepisów](#strona-główna-tworzenie-przepisów)  
-    1.1. [Przepis od AI](#przepis-od-ai)  
-        1.1.1. [Przepis z wybranej kuchni](#przepis-z-wybranej-kuchni)  
-        1.1.2. [Losowy przepis](#losowy-przepis)  
-        1.1.3. [Wybrany przepis](#wybrany-przepis)  
-        1.1.4. [Zapisanie przepisu od AI](#zapisanie-przepisu-od-ai)  
-    1.2. [Własny przepis](#własny-przepis)  
-2. [Ulubione](#ulubione)  
 3. [Szczegóły przepisu](#szczegóły-przepisu)  
 4. [Lista zakupów](#lista-zakupów)  
 5. [Ustawienia](#ustawienia)
-    5.1. [Ustawienia](#ustawienia-2)
-        1.5.1. [Tryb jasny/ciemny](#tryb-jasny-ciemny)  
-        1.5.2. [Profil](#profil)  
-        1.5.3. [Preferencje](#preferencje)  
-        1.5.4. [Generowanie zdjęć](#generowanie-zdjęć)  
-        1.5.5. [Język](#język)  
-    5.2. [Samouczek](#samouczek) 
-    5.3. [Opinie](#opinie)
-    5.4. [Polityka prywatności](#polityka-prywatności) 
+    1. [Ustawienia](#ustawienia-2)
+        1. [Tryb jasny/ciemny](#tryb-jasny-ciemny)  
+        2. [Profil](#profil)  
+        3. [Preferencje](#preferencje)  
+        4. [Generowanie zdjęć](#generowanie-zdjęć)  
+        5. [Język](#język)  
+    2. [Samouczek](#samouczek) 
+    3. [Opinie](#opinie)
+    4. [Polityka prywatności](#polityka-prywatności) 
 
-
-# Przykładowa Zawartość
+* * *
 
 # Aplikacja Shoku Ai {#aplikacja-shoku-ai}
 Aplikacja Shoku Ai to innowacyjne narzędzie do tworzenia i odkrywania przepisów kulinarnych z wykorzystaniem sztucznej inteligencji.
@@ -110,10 +96,10 @@ Włącza / wyłącza generowanie zdjęć potraw dołączanych do przepisów.
 Zmienia język interfejsu aplikacji.
 
 ### 5.2. Samouczek {#samouczek}
-Na tej stronie możesz przejść na stronę internetową aplikacji, gdzie znajdziesz m. in. ten samouczek.
+Umożliwia przejście na stronę internetową aplikacji, gdzie znajdziesz m. in. ten samouczek.
 
 ### 5.3. Opinie {#opinie}
-
+Tutaj możesz podzielić się z nami swoją opinią na temat aplikacji.
 
 ### 5.4. Polityka prywatności {#polityka-prywatności}
 Na tej stronie zapoznasz się z polityką prywatności aplikacji Shoku Ai.
