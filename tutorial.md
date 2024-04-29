@@ -13,7 +13,6 @@ order: 1
 
 # Spis Treści
 
-lista testowa:
 [Aplikacja Shoku Ai](#aplikacja-shoku-ai)  
 1. [Strona główna - tworzenie przepisów](#strona-główna-tworzenie-przepisów)  
     1. [Przepis od AI](#przepis-od-ai)  
