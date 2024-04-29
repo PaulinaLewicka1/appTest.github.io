@@ -12,7 +12,7 @@ order: 0
 
 * * *
 
-# Spis Treścix  
+# Spis Treści
 
 [Aplikacja Shoku Ai](#aplikacja-shoku-ai)  
 1. [Strona główna - tworzenie przepisów](#strona-główna-tworzenie-przepisów)  
@@ -39,10 +39,10 @@ order: 0
 
 # Przykładowa Zawartość
 
-# Aplikacja Shoku Ai
+# Aplikacja Shoku Ai {#aplikacja-shoku-ai}
 Aplikacja Shoku Ai to innowacyjne narzędzie do tworzenia i odkrywania przepisów kulinarnych z wykorzystaniem sztucznej inteligencji.
 
-## 1. Strona główna - tworzenie przepisów
+## 1. Strona główna - tworzenie przepisów {#strona-główna-tworzenie-przepisów}
 Po uruchomieniu aplikacji znajdziesz się na stronie głównej. Tu można dodawać własne przepisy oraz
 generować je przy pomocy sztucznej inteligencji.
 
