@@ -2,24 +2,18 @@ title: Shoku Ai
 description: Aplikacja mobilna
 show_downloads: false
 
-baseurl: "/appTest.github.io" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://paulinalewicka1.github.io" # change this to the base hostname & protocol for your site
+baseurl: "/appTest.github.io" 
+url: "https://paulinalewicka1.github.io"
 
 github:
   pdf_url: "https://paulinalewicka1.github.io/appTest.github.io/instruction.pdf"
   apk_url: "https://paulinalewicka1.github.io/appTest.github.io/app-release.apk"
   prezentacja_url: "https://paulinalewicka1.github.io/appTest.github.io/prezentacja.pdf"
 
-# cayman-blog date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-cayman-blog:
-  date_format: "%b %-d, %Y"
-
-#theme: # leave it empty
 #theme: jekyll-theme-cayman-blog
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
   - jekyll-target-blank
   - kramdown-parser-gfm
 
