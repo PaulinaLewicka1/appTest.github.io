@@ -1,5 +1,5 @@
 title: Shoku Ai
-description: Witaj! ShokuAi to mobilna aplikacja do generowania przepisów i tworzenia listy zakupów.
+description: Aplikacja mobilna
 show_downloads: false
 
 baseurl: "/appTest.github.io" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -8,6 +8,7 @@ url: "https://paulinalewicka1.github.io" # change this to the base hostname & pr
 github:
   pdf_url: "https://paulinalewicka1.github.io/appTest.github.io/instruction.pdf"
   apk_url: "https://paulinalewicka1.github.io/appTest.github.io/app-release.apk"
+  prezentacja_urL: "https://paulinalewicka1.github.io/appTest.github.io/prezentacja.pdf"
 
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
