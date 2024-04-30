@@ -8,7 +8,7 @@ url: "https://paulinalewicka1.github.io" # change this to the base hostname & pr
 github:
   pdf_url: "https://paulinalewicka1.github.io/appTest.github.io/instruction.pdf"
   apk_url: "https://paulinalewicka1.github.io/appTest.github.io/app-release.apk"
-  prezentacja_urL: "https://paulinalewicka1.github.io/appTest.github.io/prezentacja.pdf"
+  prezentacja_url: "https://paulinalewicka1.github.io/appTest.github.io/prezentacja.pdf"
 
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
