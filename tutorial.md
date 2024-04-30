@@ -50,7 +50,7 @@ generować je przy pomocy sztucznej inteligencji.
 Funkcja generowania przepisów przez sztuczną inteligencję pozwala szybko otrzymać propozycje potraw. Przepis od sztucznej inteligencji można dodać na trzy sposoby:
 
 #### 1.1.1. Przepis z wybranej kuchni: {#przepis-z-wybranej-kuchni}
-Aby dodać przepis z wybranej kuchni, rozwiń listę (1), wybierz interesującą Cię kategorię (2) i zatwierdź przyciskiem (3).Nastąpi wygenerowanie przepisu.
+Aby dodać przepis z wybranej kuchni, rozwiń listę (1), wybierz interesującą Cię kategorię (2) i zatwierdź przyciskiem (3). Nastąpi wygenerowanie przepisu.
 
 ![ss_kuchnia_wloska](/assets/images/ss_kuchnia_wloska.jpg)
 ![ss_kuchnia_wloska_zatwierdz](/assets/images/ss_kuchnia_wloska_zatwierdz.jpg)
@@ -73,7 +73,7 @@ Aby zapisać otrzymany przepis, należy zapisać go przyciskiem (4).
 ![ss_przepis_ai_2](/assets/images/ss_przepis_ai_2.jpg)
 
 ### 1.2. Własny przepis {#własny-przepis}
-Rozwiń menu (1) i wybierz przycisk (2). Na ukazanej stronie należy dodać wymagane szczegóły dotyczące przepisu: zdjęcie (opcjonalne), nazw, czas przygotowania, opis, składniki (co najmniej jeden). Po wprowadzeniu danych należy zatwierdzić dodanie przepisu. 
+Rozwiń menu (1) i wybierz przycisk (2). Na ukazanej stronie należy dodać wymagane szczegóły dotyczące przepisu: zdjęcie (opcjonalne), nazwę, czas przygotowania, opis, składniki (co najmniej jeden). Po wprowadzeniu danych należy zatwierdzić dodanie przepisu. 
 
 ![ss_plus](/assets/images/ss_plus.jpg)
 ![ss_plus_wlasny](/assets/images/ss_plus_wlasny.jpg)
@@ -95,9 +95,10 @@ przepisem odpowiednimi przyciskami, które umożliwiają:
 - usuwanie
 - udostępnianie _(skopiowanie do schowka)_
 - edytowanie
-- dodanie / usunięcie porcji do listy zakupów przyciskami + i -
+- dodanie / usunięcie porcji do listy zakupów _(przyciskami + i -)_
 
 Edytowanie przepisu:
+
 ![ss_edytuj](/assets/images/ss_edytuj.jpg)
 ![ss_edytuj_2](/assets/images/ss_edytuj_2.jpg)
 
