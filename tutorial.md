@@ -44,7 +44,7 @@ Aplikacja Shoku Ai to innowacyjne narzędzie do tworzenia i odkrywania przepisó
 Po uruchomieniu aplikacji znajdziesz się na stronie głównej. Tu można dodawać własne przepisy oraz
 generować je przy pomocy sztucznej inteligencji.
 
-![ss_strona_glowna](/assets/images/ss_strona_glowna.jpg) {:height="50%"}
+<img src="/assets/images/ss_strona_glowna.jpg" alt="ss_strona_glowna" width="270" height="600">
 
 ### 1.1. Przepis od AI {#przepis-od-ai}
 Funkcja generowania przepisów przez sztuczną inteligencję pozwala szybko otrzymać propozycje potraw. Przepis od sztucznej inteligencji można dodać na trzy sposoby:
