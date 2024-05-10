@@ -361,6 +361,10 @@ a {
   ol:first-of-type {
     margin-left: 5%;
   }
+  
+  ol:first-of-type > li > ol {
+    margin-left: 0;
+  }
 
   blockquote {
     padding: 0 1rem;
