@@ -246,7 +246,6 @@ a {
     ul,
     ol {
       margin-top: 0;
-      padding-left: 0;
     }    
   }
 
@@ -356,14 +355,6 @@ a {
   ul,
   ol {
     margin-top: 0;
-  }
-
-  ol:first-of-type {
-    margin-left: 5%;
-  }
-  
-  ol:first-of-type > li > ol {
-    margin-left: 0;
   }
 
   blockquote {
