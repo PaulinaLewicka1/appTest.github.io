@@ -13,7 +13,7 @@ order: 1
 
 # Spis Treści
 
-[Aplikacja Shoku Ai](#aplikacja-shoku-ai)  
+[Aplikacja ShokuAI](#aplikacja-shokuai)  
 1. [Strona główna - tworzenie przepisów](#strona-główna-tworzenie-przepisów)  
     1. [Przepis od AI](#przepis-od-ai)  
         1. [Przepis z wybranej kuchni](#przepis-z-wybranej-kuchni)  
@@ -37,8 +37,8 @@ order: 1
 
 * * *
 
-# Aplikacja Shoku Ai {#aplikacja-shoku-ai}
-Aplikacja Shoku Ai to innowacyjne narzędzie do tworzenia i odkrywania przepisów kulinarnych z wykorzystaniem sztucznej inteligencji.
+# Aplikacja ShokuAI {#aplikacja-shokuai}
+Aplikacja ShokuAI to innowacyjne narzędzie do tworzenia i odkrywania przepisów kulinarnych z wykorzystaniem sztucznej inteligencji.
 
 ## 1. Strona główna - tworzenie przepisów {#strona-główna-tworzenie-przepisów}
 Po uruchomieniu aplikacji znajdziesz się na stronie głównej. Tu można dodawać własne przepisy oraz
@@ -52,9 +52,7 @@ Funkcja generowania przepisów przez sztuczną inteligencję pozwala szybko otrz
 #### 1.1.1. Przepis z wybranej kuchni: {#przepis-z-wybranej-kuchni}
 Aby dodać przepis z wybranej kuchni, rozwiń listę (1), wybierz interesującą Cię kategorię (2) i zatwierdź przyciskiem (3). Nastąpi wygenerowanie przepisu.
 
-<div class="tutorial">
 ![ss_kuchnia_wloska](/assets/images/ss_kuchnia_wloska.jpg) ![ss_kuchnia_wloska_zatwierdz](/assets/images/ss_kuchnia_wloska_zatwierdz.jpg)
-</div>
 
 #### 1.1.2. Losowy przepis: {#losowy-przepis}
 Po naciśnięciu karty _“Losowy przepis”_ nastąpi wygenerowanie przepisu.
@@ -143,4 +141,4 @@ Umożliwia przejście na stronę internetową aplikacji, gdzie znajdziesz m. in.
 Tutaj możesz podzielić się z nami swoją opinią na temat aplikacji.
 
 ### 5.4. Polityka prywatności {#polityka-prywatności}
-Na tej stronie zapoznasz się z polityką prywatności aplikacji Shoku Ai.
+Na tej stronie zapoznasz się z polityką prywatności aplikacji ShokuAI.
