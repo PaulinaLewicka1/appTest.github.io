@@ -52,7 +52,9 @@ Funkcja generowania przepisów przez sztuczną inteligencję pozwala szybko otrz
 #### 1.1.1. Przepis z wybranej kuchni: {#przepis-z-wybranej-kuchni}
 Aby dodać przepis z wybranej kuchni, rozwiń listę (1), wybierz interesującą Cię kategorię (2) i zatwierdź przyciskiem (3). Nastąpi wygenerowanie przepisu.
 
+<div class="tutorial">
 ![ss_kuchnia_wloska](/assets/images/ss_kuchnia_wloska.jpg) ![ss_kuchnia_wloska_zatwierdz](/assets/images/ss_kuchnia_wloska_zatwierdz.jpg)
+</div>
 
 #### 1.1.2. Losowy przepis: {#losowy-przepis}
 Po naciśnięciu karty _“Losowy przepis”_ nastąpi wygenerowanie przepisu.
