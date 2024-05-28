@@ -156,14 +156,20 @@ a {
 
   @include large {
     padding: 5rem 6rem;
+    padding-top: 50%;
+    padding-bottom: 50%;
   }
 
   @include medium {
     padding: 3rem 4rem;
+    padding-top: 50%;
+    padding-bottom: 50%;
   }
 
   @include small {
     padding: 2rem 1rem;
+    padding-top: 50%;
+    padding-bottom: 50%;
   }
 }
 
