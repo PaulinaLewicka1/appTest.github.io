@@ -127,19 +127,19 @@ a {
   }
 
   @include large {
-    margin: auto; 
+    padding: 0.75rem 1rem;
     font-size: 1.3rem;
   }
 
   @include medium {
-    margin: auto; 
+    padding: 0.6rem 0.9rem;
     font-size: 1.2rem;
   }
 
   @include small {
     display: block;
     width: 100%;
-    margin: auto; 
+    padding: 0.75rem;
     font-size: 1.1rem;
 
     + .btnColor {
