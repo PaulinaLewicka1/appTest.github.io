@@ -37,22 +37,32 @@ body {
 }
 
 .slogan1 {
-  display: block;
   text-align: center;
   margin-top: 0;
 
+  @include large {
+    display: block;
+  }
+  @include medium {
+    display: block;
+  }
   @include small {
     display: none;
   }
 }
 
 .slogan2 {
-  display: block;
   text-align: center;
   margin-top: 0;
 
-  @include small {
+  @include large {
     display: none;
+  }
+  @include medium {
+    display: none;
+  }
+  @include small {
+    display: block;
   }
 }
 
