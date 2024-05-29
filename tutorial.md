@@ -7,7 +7,9 @@ ref: tutorial
 order: 1
 ---
 
-[Pobierz instrukcję obsługi w pliku pdf]({{ site.github.pdf_url }}){: .btnColor }
+<div class="center">
+  <a href="{{ site.github.pdf_url }}" class="btnColor">Pobierz instrukcję obsługi w pliku pdf</a>
+</div>
 
 * * *
 
