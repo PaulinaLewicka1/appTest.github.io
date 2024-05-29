@@ -54,7 +54,10 @@ Funkcja generowania przepisów przez sztuczną inteligencję pozwala szybko otrz
 #### 1.1.1. Przepis z wybranej kuchni: {#przepis-z-wybranej-kuchni}
 Aby dodać przepis z wybranej kuchni, rozwiń listę (1), wybierz interesującą Cię kategorię (2) i zatwierdź przyciskiem (3). Nastąpi wygenerowanie przepisu.
 
-![ss_kuchnia_wloska](/assets/images/ss_kuchnia_wloska.jpg) ![ss_kuchnia_wloska_zatwierdz](/assets/images/ss_kuchnia_wloska_zatwierdz.jpg)
+<div class="image-row">
+  <img src="/assets/images/ss_kuchnia_wloska.jpg" alt="ss_kuchnia_wloska">
+  <img src="/assets/images/ss_kuchnia_wloska_zatwierdz.jpg" alt="ss_kuchnia_wloska_zatwierdzenie">
+</div>
 
 #### 1.1.2. Losowy przepis: {#losowy-przepis}
 Po naciśnięciu karty _“Losowy przepis”_ nastąpi wygenerowanie przepisu.
@@ -64,7 +67,11 @@ Po naciśnięciu karty _“Losowy przepis”_ nastąpi wygenerowanie przepisu.
 #### 1.1.3. Wybrany przepis: {#wybrany-przepis}
 Aby dodać wybrany przepis, rozwiń menu (1) i wybierz przycisk (2). W ukazanym oknie należy wpisać nazwę i zatwierdzić przyciskiem _“Proponuj!”_.
 
-![ss_plus](/assets/images/ss_plus.jpg) ![ss_plus_ai](/assets/images/ss_plus_ai.jpg) ![ss_ai](/assets/images/ss_ai.jpg)
+<div class="image-row">
+  <img src="/assets/images/ss_plus.jpg" alt="ss_plus">
+  <img src="/assets/images/ss_plus_ai.jpg" alt="ss_plus_ai">
+  <img src="/assets/images/ss_ai.jpg" alt="ss_ai">
+</div>
 
 #### 1.1.4. Zapisanie przepisu od AI: {#zapisanie-przepisu-od-ai}
 Aby zapisać otrzymany przepis, należy zapisać go przyciskiem (4).
@@ -74,7 +81,11 @@ Aby zapisać otrzymany przepis, należy zapisać go przyciskiem (4).
 ### 1.2. Własny przepis {#własny-przepis}
 Rozwiń menu (1) i wybierz przycisk (2). Na ukazanej stronie należy dodać wymagane szczegóły dotyczące przepisu: zdjęcie (opcjonalne), nazwę, czas przygotowania, opis, składniki (co najmniej jeden). Po wprowadzeniu danych należy zatwierdzić dodanie przepisu. 
 
-![ss_plus](/assets/images/ss_plus.jpg) ![ss_plus_wlasny](/assets/images/ss_plus_wlasny.jpg) ![ss_dodaj](/assets/images/ss_dodaj.jpg)
+<div class="image-row">
+  <img src="/assets/images/ss_plus.jpg" alt="ss_plus">
+  <img src="/assets/images/ss_plus_wlasny.jpg" alt="ss_plus_wlasny">
+  <img src="/assets/images/ss_dodaj.jpg" alt="ss_dodaj">
+</div>
 
 ## 2. Ulubione {#ulubione}
 W tej zakładce pojawią się zapisane przepisy. Klikając kartę przepisu, przejdziesz na stronę jego szczegółów.
@@ -84,7 +95,10 @@ W tej zakładce pojawią się zapisane przepisy. Klikając kartę przepisu, prze
 ## 3. Szczegóły przepisu {#szczegóły-przepisu}
 Na tej stronie możesz zobaczyć przepis.
 
-![ss_szczegoly](/assets/images/ss_szczegoly.jpg) ![ss_szczegoly_2](/assets/images/ss_szczegoly_2.jpg)
+<div class="image-row">
+  <img src="/assets/images/ss_szczegoly.jpg" alt="ss_szczegoly">
+  <img src="/assets/images/ss_szczegoly_2.jpg" alt="ss_szczegoly_2">
+</div>
 
 Możesz zaznaczyć posiadane produkty oraz zarządzać
 przepisem odpowiednimi przyciskami, które umożliwiają:
@@ -95,7 +109,10 @@ przepisem odpowiednimi przyciskami, które umożliwiają:
 
 Edytowanie przepisu:
 
-![ss_edytuj](/assets/images/ss_edytuj.jpg) ![ss_edytuj_2](/assets/images/ss_edytuj_2.jpg)
+<div class="image-row">
+  <img src="/assets/images/ss_edytuj.jpg" alt="ss_edytuj">
+  <img src="/assets/images/ss_edytuj_2.jpg" alt="ss_edytuj_2">
+</div>
 
 ## 4. Lista zakupów {#lista-zakupów}
 Na tej stronie możesz zobaczyć swoją listę zakupów oraz zaznaczyć posiadane produkty. Na dole znajdują się dwa przyciski, umożliwiające wyczyszczenie oraz udostępnienie listy.
@@ -114,7 +131,10 @@ W głównej zakładce ustawień możesz przejść do stron: ustawień, samouczka
 #### 5.1.1. Tryb jasny/ciemny {#tryb-jasny-ciemny}
 Umożliwia przełączanie interfejsu aplikacji między trybami jasnym i ciemnym.
 
-![ss_strona_glowna](/assets/images/ss_strona_glowna.jpg) ![ss_tryb_ciemny](/assets/images/ss_tryb_ciemny.jpg)
+<div class="image-row">
+  <img src="/assets/images/ss_strona_glowna.jpg" alt="ss_strona_glowna">
+  <img src="/assets/images/ss_tryb_ciemny.jpg" alt="ss_tryb_ciemny">
+</div>
 
 #### 5.1.2. Profil {#profil}
 Umożliwia zmianę imienia wyświetlanego na stronie głównej.
