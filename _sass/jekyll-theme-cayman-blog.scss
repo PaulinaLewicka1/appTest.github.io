@@ -36,12 +36,23 @@ body {
   color: $body-text-color;
 }
 
-.slogan {
+.slogan1 {
+  display: block;
   text-align: center;
   margin-top: 0;
 
   @include small {
-    font-size: 1.875em;
+    display: none;
+  }
+}
+
+.slogan2 {
+  display: block;
+  text-align: center;
+  margin-top: 0;
+
+  @include small {
+    display: none;
   }
 }
 
