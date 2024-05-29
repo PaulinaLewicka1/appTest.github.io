@@ -7,7 +7,9 @@ ref: app
 order: 0
 ---
 
-[Pobierz aplikację]({{ site.github.apk_url }}){: .btnColor }
+<div class="center">
+  <a href="{{ site.github.apk_url }}" class="btnColor">Pobierz aplikację</a>
+</div>
 
 * * *
 
