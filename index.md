@@ -5,7 +5,7 @@ layout: home
 <p align="center">
   <img src="assets\images\appIconMini.png" alt="appIconMini">
 </p>
-<h1>Twórz smaki, oszczędzaj czas – generuj przepisy, listę zakupów tworząc wraz!</h1>
+<h1>Twórz smaki, oszczędzaj czas – generuj przepisy, listę zakupów tworząc wraz!</h1>{: .slogan }
 
 Nasza mobilna aplikacja to narzędzie dla miłośników gotowania i organizacji zakupów. Pozwala ona użytkownikom szybko i łatwo generować przepisy kulinarne oraz tworzyć listy zakupów, aby ułatwić planowanie posiłków i zakupów spożywczych. Dzięki wykorzystaniu sztucznej inteligencji, ShokuAI automatycznie generuje spersonalizowane przepisy kulinarne na podstawie preferencji użytkownika, ewentualnych alergii czy ograniczeń dietetycznych.
 
