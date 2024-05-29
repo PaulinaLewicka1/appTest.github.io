@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<p align="center" margin-top="0">
+<p align="center" margin-top="0" margin-bot="0">
   <img src="assets\images\appIconMini.png" alt="appIconMini">
 </p>
 <h1>Twórz smaki, oszczędzaj czas – generuj przepisy, listę zakupów tworząc wraz!</h1>{: .slogan1 }
