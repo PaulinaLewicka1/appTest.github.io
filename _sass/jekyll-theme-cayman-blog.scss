@@ -36,36 +36,6 @@ body {
   color: $body-text-color;
 }
 
-.slogan1 {
-  text-align: center;
-  margin-top: 0;
-
-  @include large {
-    display: block;
-  }
-  @include medium {
-    display: block;
-  }
-  @include small {
-    display: none;
-  }
-}
-
-.slogan2 {
-  text-align: center;
-  margin-top: 0;
-
-  @include large {
-    display: none;
-  }
-  @include medium {
-    display: none;
-  }
-  @include small {
-    display: block;
-  }
-}
-
 #skip-to-content {
   height: 1px;
   width: 1px;
@@ -316,6 +286,36 @@ a {
     margin-bottom: 1rem;
     font-weight: normal;
     color: $section-headings-color;
+  }
+
+  .slogan1 {
+    text-align: center;
+    margin-top: 0;
+  
+    @include large {
+      display: block;
+    }
+    @include medium {
+      display: block;
+    }
+    @include small {
+      display: none;
+    }
+  }
+  
+  .slogan2 {
+    text-align: center;
+    margin-top: 0;
+  
+    @include large {
+      display: none;
+    }
+    @include medium {
+      display: none;
+    }
+    @include small {
+      display: block;
+    }
   }
 
   p {
