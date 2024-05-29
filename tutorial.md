@@ -46,7 +46,9 @@ Aplikacja ShokuAI to innowacyjne narzędzie do tworzenia i odkrywania przepisów
 Po uruchomieniu aplikacji znajdziesz się na stronie głównej. Tu można dodawać własne przepisy oraz
 generować je przy pomocy sztucznej inteligencji.
 
-![ss_strona_glowna](/assets/images/ss_strona_glowna2.jpg){: .image-row }
+<div class="image-row">
+<img src="assets\images\ss_strona_glowna.jpg" alt="ss_strona_glowna">
+</div>
 
 ### 1.1. Przepis od AI {#przepis-od-ai}
 Funkcja generowania przepisów przez sztuczną inteligencję pozwala szybko otrzymać propozycje potraw. Przepis od sztucznej inteligencji można dodać na trzy sposoby:
@@ -62,7 +64,9 @@ Aby dodać przepis z wybranej kuchni, rozwiń listę (1), wybierz interesującą
 #### 1.1.2. Losowy przepis: {#losowy-przepis}
 Po naciśnięciu karty _“Losowy przepis”_ nastąpi wygenerowanie przepisu.
 
-![ss_losowy](/assets/images/ss_losowy.jpg){: .image-row }
+<div class="image-row">
+<img src="assets\images\ss_losowy.jpg" alt="ss_losowy">
+</div>
 
 #### 1.1.3. Wybrany przepis: {#wybrany-przepis}
 Aby dodać wybrany przepis, rozwiń menu (1) i wybierz przycisk (2). W ukazanym oknie należy wpisać nazwę i zatwierdzić przyciskiem _“Proponuj!”_.
@@ -76,7 +80,9 @@ Aby dodać wybrany przepis, rozwiń menu (1) i wybierz przycisk (2). W ukazanym 
 #### 1.1.4. Zapisanie przepisu od AI: {#zapisanie-przepisu-od-ai}
 Aby zapisać otrzymany przepis, należy zapisać go przyciskiem (4).
 
-![ss_przepis_ai_2](/assets/images/ss_przepis_ai_2.jpg){: .image-row }
+<div class="image-row">
+<img src="assets\images\ss_przepis_ai_2.jpg" alt="ss_przepis_ai_2">
+</div>
 
 ### 1.2. Własny przepis {#własny-przepis}
 Rozwiń menu (1) i wybierz przycisk (2). Na ukazanej stronie należy dodać wymagane szczegóły dotyczące przepisu: zdjęcie (opcjonalne), nazwę, czas przygotowania, opis, składniki (co najmniej jeden). Po wprowadzeniu danych należy zatwierdzić dodanie przepisu. 
@@ -90,7 +96,9 @@ Rozwiń menu (1) i wybierz przycisk (2). Na ukazanej stronie należy dodać wyma
 ## 2. Ulubione {#ulubione}
 W tej zakładce pojawią się zapisane przepisy. Klikając kartę przepisu, przejdziesz na stronę jego szczegółów.
 
-![ss_ulubione](/assets/images/ss_ulubione.jpg){: .image-row }
+<div class="image-row">
+<img src="assets\images\ss_ulubione.jpg" alt="ss_ulubione">
+</div>
 
 ## 3. Szczegóły przepisu {#szczegóły-przepisu}
 Na tej stronie możesz zobaczyć przepis.
@@ -117,16 +125,22 @@ Edytowanie przepisu:
 ## 4. Lista zakupów {#lista-zakupów}
 Na tej stronie możesz zobaczyć swoją listę zakupów oraz zaznaczyć posiadane produkty. Na dole znajdują się dwa przyciski, umożliwiające wyczyszczenie oraz udostępnienie listy.
 
-![ss_lista](/assets/images/ss_lista.jpg){: .image-row }
+<div class="image-row">
+<img src="assets\images\ss_lista.jpg" alt="ss_lista">
+</div>
 
 ## 5. Ustawienia {#ustawienia}
 W głównej zakładce ustawień możesz przejść do stron: ustawień, samouczka, opinii oraz polityki prywatności.
 
-![ss_ustawienia](/assets/images/ss_ustawienia.jpg){: .image-row }
+<div class="image-row">
+<img src="assets\images\ss_ustawienia.jpg" alt="ss_ustawienia">
+</div>
 
 ### 5.1. Ustawienia {#ustawienia-2}
 
-![ss_ustawienia_2](/assets/images/ss_ustawienia_2.jpg){: .image-row }
+<div class="image-row">
+<img src="assets\images\ss_ustawienia_2.jpg" alt="ss_ustawienia_2">
+</div>
 
 #### 5.1.1. Tryb jasny/ciemny {#tryb-jasny-ciemny}
 Umożliwia przełączanie interfejsu aplikacji między trybami jasnym i ciemnym.
@@ -139,12 +153,16 @@ Umożliwia przełączanie interfejsu aplikacji między trybami jasnym i ciemnym.
 #### 5.1.2. Profil {#profil}
 Umożliwia zmianę imienia wyświetlanego na stronie głównej.
 
-![ss_profil](/assets/images/ss_profil.jpg){: .image-row }
+<div class="image-row">
+<img src="assets\images\ss_profil.jpg" alt="ss_profil">
+</div>
 
 #### 5.1.3. Preferencje {#preferencje}
 Umożliwia zapisanie indywidualnych preferencji żywieniowych oraz alergii.
 
-![ss_preferencje](/assets/images/ss_preferencje.jpg){: .image-row }
+<div class="image-row">
+<img src="assets\images\ss_preferencje.jpg" alt="ss_preferencje">
+</div>
 
 #### 5.1.4. Generowanie zdjęć {#generowanie-zdjęć}
 Włącza / wyłącza generowanie zdjęć potraw dołączanych do przepisów.
@@ -152,12 +170,16 @@ Włącza / wyłącza generowanie zdjęć potraw dołączanych do przepisów.
 #### 5.1.5. Język {#język}
 Zmienia język interfejsu aplikacji.
 
-![ss_ustawienia_2_jezyk](/assets/images/ss_ustawienia_2_jezyk.jpg){: .image-row }
+<div class="image-row">
+<img src="assets\images\ss_ustawienia_2_jezyk.jpg" alt="ss_ustawienia_2_jezyk">
+</div>
 
 ### 5.2. Samouczek {#samouczek}
 Umożliwia przejście na stronę internetową aplikacji, gdzie znajdziesz m. in. ten samouczek.
 
-![ss_samouczek](/assets/images/ss_samouczek.jpg){: .image-row }
+<div class="image-row">
+<img src="assets\images\ss_samouczek.jpg" alt="ss_samouczek">
+</div>
 
 ### 5.3. Opinie {#opinie}
 Tutaj możesz podzielić się z nami swoją opinią na temat aplikacji.
